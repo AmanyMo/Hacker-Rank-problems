@@ -1,0 +1,4 @@
+you will take a  number need to print all numbers between 1 and that number if number /3 and /5 ==0 print FuzzBuzz
+if /3 only print Fuzz
+If /5 only pint Buzz 
+anything else print the i ""number in iteration
